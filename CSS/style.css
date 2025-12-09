@@ -1,23 +1,18 @@
-@import url("https://use.typekit.net/fss0kdc.css");
-
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
-
 
 @font-face {
-  font-family: "afcarpla";
-  src: url("./afcarpla.otf");
+  font-family: "Harriet Text Bold";
+  src: url("./Harriet Text Bold.otf");
 }
 
 @font-face {
-  font-family: "BebasNeue";
-  src: url("./BebasNeue.otf");
+  font-family: "HarrietTestText-Regular";
+  src: url("./HarrietTestText-Regular (1).otf");
 }
 
 
 
 .title{
-  font-family: "brush-script-std", sans-serif !important;
+  font-family: "Harriet Text Bold", sans-serif !important;
   text-transform: capitalize !important; 
   font-size: 2em !important;
   
@@ -31,7 +26,7 @@ h4 {
 
 
 .description.text{
- font-family: "Poppins", sans-serif !important;
+ font-family: "HarrietTestText-Regular", sans-serif !important;
  text-transform: lowercase !important;
 }
 
