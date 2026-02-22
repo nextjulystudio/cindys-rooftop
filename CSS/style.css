@@ -22,11 +22,11 @@
 h4 {
     font-family: "Harriet Text Bold", sans-serif !important;
     text-transform: uppercase !important;
-    font-weight: 400 !important;
 }
 
 
 .description.text{
  font-family: "HarrietTestText-Regular", sans-serif !important;
  text-transform: lowercase !important;
+ font-weight: 400 !important;
 }
